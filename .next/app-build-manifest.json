@@ -12,15 +12,35 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/home-digital-agency/page": [
+    "/home-main/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/home-digital-agency/page.js"
+      "static/chunks/app/home-main/page.js"
     ],
-    "/project-details/page": [
+    "/portfolio-gallery/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/project-details/page.js"
+      "static/chunks/app/portfolio-gallery/page.js"
+    ],
+    "/blog-grid-sidebar/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog-grid-sidebar/page.js"
+    ],
+    "/page-contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page-contact/page.js"
+    ],
+    "/home-personal/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/home-personal/page.js"
+    ],
+    "/home-modern-studio/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/home-modern-studio/page.js"
     ],
     "/not-found": [
       "static/chunks/webpack.js",
