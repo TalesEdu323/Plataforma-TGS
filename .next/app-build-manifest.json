@@ -17,30 +17,30 @@
       "static/chunks/main-app.js",
       "static/chunks/app/home-main/page.js"
     ],
-    "/portfolio-gallery/page": [
+    "/home-modern-studio/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/portfolio-gallery/page.js"
+      "static/chunks/app/home-modern-studio/page.js"
     ],
-    "/blog-grid-sidebar/page": [
+    "/home-creative-agency/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog-grid-sidebar/page.js"
+      "static/chunks/app/home-creative-agency/page.js"
     ],
-    "/page-contact/page": [
+    "/home-digital-agency/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page-contact/page.js"
+      "static/chunks/app/home-digital-agency/page.js"
     ],
     "/home-personal/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/home-personal/page.js"
     ],
-    "/home-modern-studio/page": [
+    "/page-about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/home-modern-studio/page.js"
+      "static/chunks/app/page-about/page.js"
     ],
     "/not-found": [
       "static/chunks/webpack.js",
